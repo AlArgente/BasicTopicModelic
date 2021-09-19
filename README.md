@@ -8,4 +8,4 @@ Before applying LDA, it's important to prepare the data, cleaning and preprocesi
 
 Also I try to explore the correct number of topics that fits better with the problem.
 
-In the future, I will include the topic distribution across documents.
+The topic distribution across the documents need to be fixed to work as it's supposed.
