@@ -8,4 +8,4 @@ Before applying LDA, it's important to prepare the data, cleaning and preprocesi
 
 Also I try to explore the correct number of topics that fits better with the problem.
 
-In the future, I will continue adding some features to the notebook, analyzing the topics detected. To do so, I will try to find the dominant topic in each sentence or trying to find the most representative document for each topic or the topic distribution across documents.
+In the future, I will include the topic distribution across documents.
